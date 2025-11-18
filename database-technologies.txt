@@ -1,0 +1,8 @@
+**Database technologies** are used to store, manage, and retrieve data for web applications.
+
+* **MySQL:** A popular relational database that uses structured tables and SQL queries to organize data efficiently.
+* **PostgreSQL:** An advanced relational database known for reliability, scalability, and support for complex queries.
+* **MongoDB:** A non-relational (NoSQL) database that stores data in flexible, JSON-like documents, ideal for dynamic or unstructured data.
+* **Firebase:** A cloud-based NoSQL database that provides real-time data syncing, often used for mobile and web apps.
+
+These technologies help back-end systems handle data securely, quickly, and reliably for dynamic web applications.
