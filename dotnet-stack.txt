@@ -1,0 +1,9 @@
+A web development stack refers to the combination of technologies used to build a complete web application. It typically consists of three main components:
+
+Front-end (Client-side): This is the part of the application that users interact with directly. It includes the UI/UX design, layouts, and interactive elements, built using HTML, CSS, JavaScript, and frameworks like React or Vue.js.
+
+Back-end (Server-side): This handles the application logic, data processing, authentication, and server communication. It uses technologies like Node.js, Python, PHP, Java, or Ruby, often with frameworks such as Express, Django, or Ruby on Rails.
+
+Database (DB): The database stores, organizes, and manages application data. Relational databases like MySQL and PostgreSQL use structured tables, while NoSQL databases like MongoDB and Firebase store flexible, unstructured data.
+
+Together, these three components form a stack where the front-end interacts with the back-end, and the back-end communicates with the database to provide a fully functional, dynamic web application.
