@@ -18,3 +18,6 @@ Web development also includes database management, API integration, version cont
 
 
 **Back-end development** deals with the server-side of a website or web application, managing how data is stored, processed, and delivered to the front-end. It uses programming languages like **Python, PHP, Java, Ruby, or Node.js** to handle business logic, databases, and server operations. Back-end developers work with **databases** such as MySQL, PostgreSQL, or MongoDB to store and retrieve information efficiently. They also create and manage **APIs** (Application Programming Interfaces) that allow the front-end to communicate with the server. The goal of back-end development is to ensure the website functions correctly, securely, and efficiently behind the scenes.
+
+
+**Database** in web development refers to a structured system for storing, organizing, and managing data that websites and applications use. Databases can be **relational** (like MySQL, PostgreSQL) using tables and SQL queries, or **non-relational** (like MongoDB, Firebase) using flexible, document-based storage. Back-end developers interact with databases to **store user information, retrieve data, and manage content dynamically**. Proper database design ensures **data integrity, security, and fast performance** for web applications.
