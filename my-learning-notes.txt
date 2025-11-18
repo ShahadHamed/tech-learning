@@ -1,0 +1,13 @@
+Basic Git Commands
+
+git init – Creates a new Git repository.
+
+git clone <url> – Copies an existing repository from a remote source.
+
+git status – Shows changes and the current branch status.
+
+git add <file> – Stages a file for committing.
+
+git commit -m "message" – Saves staged changes with a message.
+
+git log – Shows the history of commits.
