@@ -1,0 +1,13 @@
+Title: Web development
+
+Introduction:
+
+Web development is the process of building and maintaining websites and web applications that run on the internet. It involves three main areas:
+
+Front-end development – Creates the visual and interactive part of a website that users see, using languages like HTML, CSS, and JavaScript. Frameworks include React, Angular, and Vue.js.
+
+Back-end development – Manages the server, database, and application logic that power the website, using languages like Python, PHP, Node.js, and Java. It handles data storage, authentication, and server-side operations.
+
+Full-stack development – Combines both front-end and back-end skills, allowing developers to build complete web applications.
+
+Web development also includes database management, API integration, version control (like Git), and deployment to make websites functional and accessible online. Popular tools and technologies include Git, Docker, AWS, MySQL, MongoDB, and REST APIs.
