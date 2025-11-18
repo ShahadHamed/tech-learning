@@ -1,0 +1,7 @@
+**Back-end technologies** are used to build the server-side of web applications, handling data processing, business logic, and communication with databases:
+
+* **Node.js:** A JavaScript runtime that allows building fast, scalable server-side applications, often used with frameworks like Express.js.
+* **Python:** A versatile language commonly used for back-end development with frameworks like Django and Flask, known for simplicity and readability.
+* **PHP:** A widely-used server-side scripting language for web development, often paired with databases like MySQL, and used in platforms like WordPress.
+
+These technologies ensure that websites and applications **function correctly, securely, and efficiently behind the scenes**.
