@@ -1,0 +1,7 @@
+**Front-end technologies** are the tools and languages used to build the part of a website that users interact with directly:
+
+* **HTML (HyperText Markup Language):** Provides the structure and content of web pages, such as headings, paragraphs, images, and links.
+* **CSS (Cascading Style Sheets):** Controls the visual appearance of web pages, including layout, colors, fonts, and responsiveness.
+* **JavaScript (JS):** Adds interactivity and dynamic behavior to websites, such as animations, form validations, and content updates without reloading the page.
+
+Together, these technologies form the foundation of front-end development, creating engaging and user-friendly web experiences.
