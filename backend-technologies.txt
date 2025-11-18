@@ -4,4 +4,13 @@
 * **Python:** A versatile language commonly used for back-end development with frameworks like Django and Flask, known for simplicity and readability.
 * **PHP:** A widely-used server-side scripting language for web development, often paired with databases like MySQL, and used in platforms like WordPress.
 
-These technologies ensure that websites and applications **function correctly, securely, and efficiently behind the scenes**.
+These technologies ensure that websites and applications **function correctly, securely, and efficiently behind the scenes**
+
+
+
+**Back-end technologies** like **Java** and **Ruby** are used to build the server-side logic, handle databases, and manage application workflows:
+
+* **Java:** A powerful, object-oriented programming language widely used for building large-scale, secure, and high-performance web applications. It works with frameworks like **Spring** and **Java EE** to streamline back-end development.
+* **Ruby:** A dynamic, easy-to-read language commonly used with the **Ruby on Rails** framework, which emphasizes convention over configuration to build web applications quickly and efficiently.
+
+These technologies enable developers to create **robust, scalable, and maintainable server-side applications** that handle data processing, authentication, and business logic effectively.
